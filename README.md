@@ -12,6 +12,8 @@ I created an application that allowed a user to select one of four radio buttons
 
 ### Preview of App:
 
+![What's For Gif](https://user-images.githubusercontent.com/109426263/219814012-1b5a31c9-a780-49fa-894f-3fc308b5f55c.gif)
+
 
 ### Context:
 The project took roughly 10 - 15 hours of work. I am repeating mod 1 in turing in the 3rd week of my second inning.
